@@ -11,7 +11,7 @@ public class GitStudy {
 		System.out.println("Learning Git Throughly");
 	}
 		else if(mood.contentEquals("sad")) {
-			System.out.println("I am sad will learn git another day");
+			System.out.println("shutUP");
 		}
 		else {
 			System.out.println("You have entered wrong input, rerun the application");
