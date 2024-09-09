@@ -13,7 +13,7 @@ public class GitStudy {
 		else if(mood.contentEquals("sad")) {
 			System.out.println("shutUP");
 			System.out.println("Fool");
-			System.out.println("harami sala");
+			
 		}
 		else {
 			System.out.println("You have entered wrong input, rerun the application");
