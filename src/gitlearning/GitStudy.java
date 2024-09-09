@@ -12,6 +12,7 @@ public class GitStudy {
 	}
 		else if(mood.contentEquals("sad")) {
 			System.out.println("shutUP");
+			System.out.println("Fool");
 		}
 		else {
 			System.out.println("You have entered wrong input, rerun the application");
